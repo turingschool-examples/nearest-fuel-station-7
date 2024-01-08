@@ -1,0 +1,302 @@
+{
+  "route": {
+      "sessionId": "AGgA_v___wEAAQCKAAAAeNpj6GJgYGRiYGBgz0gtSrVKzp29T9OAAQo4zrd5m2447hIDotVPuMQwYAEwjTxWEI3__v__z8D0xcv0AbdLTNdnCM2AA-x875EB0rVAk6FBwQkAm2UeVkkywi4:car",
+      "realTime": 147,
+      "distance": 0.7077,
+      "time": 156,
+      "formattedTime": "00:02:36",
+      "hasHighway": false,
+      "hasTollRoad": false,
+      "hasBridge": false,
+      "hasSeasonalClosure": false,
+      "hasTunnel": false,
+      "hasFerry": false,
+      "hasUnpaved": false,
+      "hasTimedRestriction": false,
+      "hasCountryCross": false,
+      "legs": [
+          {
+              "index": 0,
+              "hasTollRoad": false,
+              "hasHighway": false,
+              "hasBridge": false,
+              "hasUnpaved": false,
+              "hasTunnel": false,
+              "hasSeasonalClosure": false,
+              "hasFerry": false,
+              "hasCountryCross": false,
+              "hasTimedRestriction": false,
+              "distance": 0.7077,
+              "time": 147,
+              "formattedTime": "00:02:27",
+              "origIndex": 0,
+              "origNarrative": "",
+              "destIndex": 0,
+              "destNarrative": "",
+              "maneuvers": [
+                  {
+                      "index": 0,
+                      "distance": 0.013,
+                      "narrative": "Head toward W 25th Ave. Go for 69 ft.",
+                      "time": 11,
+                      "direction": 1,
+                      "directionName": "North",
+                      "signs": [],
+                      "maneuverNotes": [],
+                      "formattedTime": "00:00:11",
+                      "transportMode": "car",
+                      "startPoint": {
+                          "lat": 39.75283,
+                          "lng": -105.05387
+                      },
+                      "turnType": 0,
+                      "attributes": 0,
+                      "iconUrl": "",
+                      "streets": [],
+                      "mapUrl": "https://www.mapquestapi.com/staticmap/v5/map?key=LjZkCcCkPPgS50PtwfG3arxjjbxkV9Mo&size=225,160&locations=39.75283,-105.05387|marker-1||39.75302000000001,-105.05388|marker-2||&center=39.752925000000005,-105.053875&defaultMarker=none&zoom=16&session=AGgA_v___wEAAQCKAAAAeNpj6GJgYGRiYGBgz0gtSrVKzp29T9OAAQo4zrd5m2447hIDotVPuMQwYAEwjTxWEI3__v__z8D0xcv0AbdLTNdnCM2AA-x875EB0rVAk6FBwQkAm2UeVkkywi4:car"
+                  },
+                  {
+                      "index": 1,
+                      "distance": 0.0336,
+                      "narrative": "Turn right onto W 25th Ave. Go for 177 ft.",
+                      "time": 15,
+                      "direction": 8,
+                      "directionName": "East",
+                      "signs": [],
+                      "maneuverNotes": [],
+                      "formattedTime": "00:00:15",
+                      "transportMode": "car",
+                      "startPoint": {
+                          "lat": 39.75302000000001,
+                          "lng": -105.05388
+                      },
+                      "turnType": 2,
+                      "attributes": 0,
+                      "iconUrl": "",
+                      "streets": [
+                          "W 25th Ave"
+                      ],
+                      "mapUrl": "https://www.mapquestapi.com/staticmap/v5/map?key=LjZkCcCkPPgS50PtwfG3arxjjbxkV9Mo&size=225,160&locations=39.75302000000001,-105.05388|marker-2||39.75302000000001,-105.05325|marker-3||&center=39.75302000000001,-105.053565&defaultMarker=none&zoom=16&session=AGgA_v___wEAAQCKAAAAeNpj6GJgYGRiYGBgz0gtSrVKzp29T9OAAQo4zrd5m2447hIDotVPuMQwYAEwjTxWEI3__v__z8D0xcv0AbdLTNdnCM2AA-x875EB0rVAk6FBwQkAm2UeVkkywi4:car"
+                  },
+                  {
+                      "index": 2,
+                      "distance": 0.371,
+                      "narrative": "Turn right onto Sheridan Blvd (CO-95). Go for 0.4 mi.",
+                      "time": 44,
+                      "direction": 4,
+                      "directionName": "South",
+                      "signs": [],
+                      "maneuverNotes": [],
+                      "formattedTime": "00:00:44",
+                      "transportMode": "car",
+                      "startPoint": {
+                          "lat": 39.75302000000001,
+                          "lng": -105.05325
+                      },
+                      "turnType": 2,
+                      "attributes": 0,
+                      "iconUrl": "",
+                      "streets": [
+                          "CO-95",
+                          "Sheridan Blvd"
+                      ],
+                      "mapUrl": "https://www.mapquestapi.com/staticmap/v5/map?key=LjZkCcCkPPgS50PtwfG3arxjjbxkV9Mo&size=225,160&locations=39.75302000000001,-105.05325|marker-3||39.74763000000001,-105.05324|marker-4||&center=39.750325000000004,-105.053245&defaultMarker=none&zoom=14&session=AGgA_v___wEAAQCKAAAAeNpj6GJgYGRiYGBgz0gtSrVKzp29T9OAAQo4zrd5m2447hIDotVPuMQwYAEwjTxWEI3__v__z8D0xcv0AbdLTNdnCM2AA-x875EB0rVAk6FBwQkAm2UeVkkywi4:car"
+                  },
+                  {
+                      "index": 3,
+                      "distance": 0.1199,
+                      "narrative": "Turn right onto W 20th Ave. Go for 0.1 mi.",
+                      "time": 17,
+                      "direction": 7,
+                      "directionName": "West",
+                      "signs": [],
+                      "maneuverNotes": [],
+                      "formattedTime": "00:00:17",
+                      "transportMode": "car",
+                      "startPoint": {
+                          "lat": 39.74763000000001,
+                          "lng": -105.05324
+                      },
+                      "turnType": 2,
+                      "attributes": 0,
+                      "iconUrl": "",
+                      "streets": [
+                          "W 20th Ave"
+                      ],
+                      "mapUrl": "https://www.mapquestapi.com/staticmap/v5/map?key=LjZkCcCkPPgS50PtwfG3arxjjbxkV9Mo&size=225,160&locations=39.74763000000001,-105.05324|marker-4||39.74761,-105.05549|marker-5||&center=39.747620000000005,-105.054365&defaultMarker=none&zoom=16&session=AGgA_v___wEAAQCKAAAAeNpj6GJgYGRiYGBgz0gtSrVKzp29T9OAAQo4zrd5m2447hIDotVPuMQwYAEwjTxWEI3__v__z8D0xcv0AbdLTNdnCM2AA-x875EB0rVAk6FBwQkAm2UeVkkywi4:car"
+                  },
+                  {
+                      "index": 4,
+                      "distance": 0.0907,
+                      "narrative": "Take the 2nd exit from roundabout onto W 20th Ave. Go for 479 ft.",
+                      "time": 15,
+                      "direction": 7,
+                      "directionName": "West",
+                      "signs": [],
+                      "maneuverNotes": [],
+                      "formattedTime": "00:00:15",
+                      "transportMode": "car",
+                      "startPoint": {
+                          "lat": 39.74761,
+                          "lng": -105.05549
+                      },
+                      "turnType": 28,
+                      "attributes": 0,
+                      "iconUrl": "",
+                      "streets": [
+                          "W 20th Ave"
+                      ],
+                      "mapUrl": "https://www.mapquestapi.com/staticmap/v5/map?key=LjZkCcCkPPgS50PtwfG3arxjjbxkV9Mo&size=225,160&locations=39.74761,-105.05549|marker-5||39.747640000000004,-105.05703|marker-6||&center=39.747625,-105.05626000000001&defaultMarker=none&zoom=16&session=AGgA_v___wEAAQCKAAAAeNpj6GJgYGRiYGBgz0gtSrVKzp29T9OAAQo4zrd5m2447hIDotVPuMQwYAEwjTxWEI3__v__z8D0xcv0AbdLTNdnCM2AA-x875EB0rVAk6FBwQkAm2UeVkkywi4:car"
+                  },
+                  {
+                      "index": 5,
+                      "distance": 0.0795,
+                      "narrative": "Turn right. Go for 420 ft.",
+                      "time": 45,
+                      "direction": 1,
+                      "directionName": "North",
+                      "signs": [],
+                      "maneuverNotes": [],
+                      "formattedTime": "00:00:45",
+                      "transportMode": "car",
+                      "startPoint": {
+                          "lat": 39.747640000000004,
+                          "lng": -105.05703
+                      },
+                      "turnType": 2,
+                      "attributes": 0,
+                      "iconUrl": "",
+                      "streets": [],
+                      "mapUrl": "https://www.mapquestapi.com/staticmap/v5/map?key=LjZkCcCkPPgS50PtwfG3arxjjbxkV9Mo&size=225,160&locations=39.747640000000004,-105.05703|marker-6||39.748790000000014,-105.05703|marker-7||&center=39.74821500000001,-105.05703&defaultMarker=none&zoom=16&session=AGgA_v___wEAAQCKAAAAeNpj6GJgYGRiYGBgz0gtSrVKzp29T9OAAQo4zrd5m2447hIDotVPuMQwYAEwjTxWEI3__v__z8D0xcv0AbdLTNdnCM2AA-x875EB0rVAk6FBwQkAm2UeVkkywi4:car"
+                  },
+                  {
+                      "index": 6,
+                      "distance": 0,
+                      "narrative": "Arrive at your destination.",
+                      "time": 0,
+                      "direction": 0,
+                      "directionName": "None",
+                      "signs": [],
+                      "maneuverNotes": [],
+                      "formattedTime": "00:00:00",
+                      "transportMode": "car",
+                      "startPoint": {
+                          "lat": 39.748790000000014,
+                          "lng": -105.05703
+                      },
+                      "turnType": 0,
+                      "attributes": 0,
+                      "iconUrl": "",
+                      "streets": []
+                  }
+              ]
+          }
+      ],
+      "options": {
+          "routeType": "FASTEST",
+          "narrativeType": "text",
+          "enhancedNarrative": false,
+          "walkingSpeed": -1,
+          "highwayEfficiency": 22,
+          "avoids": false,
+          "generalize": -1,
+          "shapeFormat": "raw",
+          "unit": "M",
+          "locale": "en_US",
+          "useTraffic": false,
+          "timeType": 0,
+          "dateType": 0,
+          "doReverseGeocode": true,
+          "manMaps": true,
+          "sideOfStreetDisplay": true
+      },
+      "boundingBox": {
+          "ul": {
+              "lat": 39.75302000000001,
+              "lng": -105.05703
+          },
+          "lr": {
+              "lat": 39.74761,
+              "lng": -105.05323
+          }
+      },
+      "routeWarnings": [],
+      "name": "CO-95 and W 20th Ave",
+      "maxRoutes": "",
+      "locations": [
+          {
+              "street": "5224 W 25th Ave",
+              "adminArea6": "",
+              "adminArea6Type": "Neighborhood",
+              "adminArea5": "Denver",
+              "adminArea5Type": "City",
+              "adminArea4": "Jefferson",
+              "adminArea4Type": "County",
+              "adminArea3": "CO",
+              "adminArea3Type": "State",
+              "adminArea1": "US",
+              "adminArea1Type": "Country",
+              "postalCode": "80214-1242",
+              "geocodeQualityCode": "P1AAA",
+              "geocodeQuality": "ADDRESS",
+              "dragPoint": false,
+              "sideOfStreet": "L",
+              "linkId": "0",
+              "unknownInput": "",
+              "type": "s",
+              "latLng": {
+                  "lat": 39.75282,
+                  "lng": -105.05387
+              },
+              "displayLatLng": {
+                  "lat": 39.75282,
+                  "lng": -105.05397
+              },
+              "mapUrl": ""
+          },
+          {
+              "street": "5505 W 20th Ave",
+              "adminArea6": "",
+              "adminArea6Type": "Neighborhood",
+              "adminArea5": "Edgewater",
+              "adminArea5Type": "City",
+              "adminArea4": "Jefferson",
+              "adminArea4Type": "County",
+              "adminArea3": "CO",
+              "adminArea3Type": "State",
+              "adminArea1": "US",
+              "adminArea1Type": "Country",
+              "postalCode": "80214-1239",
+              "geocodeQualityCode": "P1AAA",
+              "geocodeQuality": "ADDRESS",
+              "dragPoint": false,
+              "sideOfStreet": "L",
+              "linkId": "0",
+              "unknownInput": "",
+              "type": "s",
+              "latLng": {
+                  "lat": 39.74879,
+                  "lng": -105.05702
+              },
+              "displayLatLng": {
+                  "lat": 39.74894,
+                  "lng": -105.05703
+              },
+              "mapUrl": ""
+          }
+      ],
+      "locationSequence": [
+          0,
+          1
+      ]
+  },
+  "info": {
+      "statuscode": 0,
+      "copyright": {
+          "text": "© 2024 MapQuest, Inc.",
+          "imageUrl": "http://api.mqcdn.com/res/mqlogo.gif",
+          "imageAltText": "© 2024 MapQuest, Inc."
+      },
+      "messages": []
+  }
+}
